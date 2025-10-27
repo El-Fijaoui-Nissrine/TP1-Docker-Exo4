@@ -424,6 +424,6 @@ docker inspect --format="{{json .State.Health}}" fullstack-app-cache-1
 ![e5](./images/e5.png)
 **test with   Postman:**
 - Create a New User
-![e2](./images/e2.png)
-- List All Users
 ![e3](./images/e3.png)
+- List All Users
+![e2](./images/e2.png)
